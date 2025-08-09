@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Me, Myself and I</title>
+</head>
+<body>
+	<h1><center>Me, Myself and I</center></h1><hr>
+
+	<center><img src="C:\Users\User\OneDrive\Documents\Kyle\ET pic\me_pic.jpg" width=200></center><br>
+    
+<p> A pleasant day! I am <b>Shanina Kyle M. Gatdula</b>. I am currently 17 years old and was raised in <u>Montalban, Rizal</u>. I will be turning 18 in September, which feels like another big step on my life's path. This will mark another coordinate on the map of my journey, which is still being drawn.
+<p> What truly animates me is a deep-seated curiosity, a relentless desire to understand the 'why' behind everything. This manifests most clearly in my passion for <i>mathematics and science</i>. I find immense satisfaction in dissecting problems, whether they involve the elegant logic of a mathematical proof or the intricate workings of a biological system. The thrill of finding a solution, of piecing together the puzzle, is a driving force in my life.</p> 
+<p>When I need to channel my energy physically, I turn to the dynamic sport of <i>badminton</i>. The quick reflexes, strategic thinking, and sheer athleticism required make it a perfect outlet. And when I seek solace and reflection, I find it in the simple act of <i>walking</i>. <i>Long walks</i> allow me to clear my mind, connect with my surroundings, and find a sense of peace in the rhythm of my steps. In essence, I am a blend of intellectual curiosity and physical activity, constantly seeking to explore and understand the world around me.</p>
+	
+<h3>5 Places I Want to Visit This Summer</h3>
+	<ul type= "circle">
+	<li> Batanes</li>
+	<li> Bicol</li>
+	<li> Canada</li>
+	<li> Japan</li>
+	<li> Italy</li>
+	</ul>
+    
+<h3>My 10 Bucketlist</h3>
+    <ol type= "A">
+    <li> Enhance drawing and rendering skills</li>
+    <li> Master playing darts and billiards</li>
+    <li> Learn the basics of photography</li>
+    <li> Have my own lbrary</li>
+    <li> Write a short novel</li>
+    <li> Write new songs</li>
+    <li> Learn how to play guitar</li>
+    <li> Explore poetry</li>
+    <li> Learn various languages and alphabet</li>
+    <li> Build my future house for my own family</li>
+    </ol>
+    
+    <blockquote>"Dum spiro, spero, per aspera ad astra"</blockquote>
+	
+</body>
+</html>
